@@ -1,5 +1,5 @@
 // PrimePokerRoll service worker — cache-first for full offline use
-const CACHE = "primepokerroll-v7";
+const CACHE = "primepokerroll-v9";
 const ASSETS = [
   ".",
   "index.html",
